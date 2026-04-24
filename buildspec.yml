@@ -11,5 +11,5 @@ phases:
 
 artifacts:
   files:
-    - '**/*'
-  discard-paths: no
+    - appspec.yml
+    - index.html
